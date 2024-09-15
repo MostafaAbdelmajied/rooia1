@@ -1,0 +1,5 @@
+@include("test.head")
+@include("test.header")
+@yield("video")
+@yield("content")
+@include("test.footer")

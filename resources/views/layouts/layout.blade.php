@@ -1,0 +1,5 @@
+@include("layouts.head")
+@include("layouts.header")
+@yield("video")
+@yield("content")
+@include("layouts.footer")
